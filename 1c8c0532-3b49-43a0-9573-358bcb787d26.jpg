@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Bad Request</title>
+  </head>
+  <body>
+    <h1><p>Bad Request</p></h1>
+    Invalid HTTP Version &#x27;Invalid HTTP Version: &#x27;title=&quot;\xe7\x82\xb9\xe5\x87\xbb\xe7\x9c\x8b\xe5\xa4\xa7\xe5\x9b\xbe&quot; alt=&quot;\xe5\x85\xb3\xe4\xb8\xad\xe5\xa5\xb3\xe4\xba\xba&quot; rel=&quot;v:image&quot; /&gt; HTTP/1.1&#x27;&#x27;
+  </body>
+</html>
